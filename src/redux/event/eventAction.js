@@ -1,0 +1,6 @@
+export const SHOW_EVENT_MODAL = 'SHOW_EVENT_MODAL'
+export const HIDE_EVENT_MODAL = 'HIDE_EVENT_MODAL'
+export const ADD_EVENT = 'ADD_EVENT'
+export const SELECT_EVENT = 'SELECT_EVENT'
+export const DELETE_EVENT = 'DELETE_EVENT'
+export const UPDATE_EVENT = 'UPDATE_EVENT'
